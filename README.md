@@ -1,4 +1,4 @@
-## COVID 19 detection from XRAY using Machine Learning
+## IMAGE ANIMATION USING FIRST ORDER MOTION MODEL
 [](https://www.embs.org/pulse/wp-content/uploads/sites/13/2020/08/Mertz_AI-scaled-1-1536x864.jpg)
 ## INSTALL
 This project requires Python and the following Python libraries installed:
